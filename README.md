@@ -1,6 +1,6 @@
 # Fake NPM Loader Simulator
 
-![npm install simulation](https://i.imgur.com/2v3H9Vd.gif)
+![npm install simulation]([https://i.imgur.com/2v3H9Vd.gif](https://imgur.com/a/tvzZWaU))
 
 Имитатор процесса установки npm зависимостей с реалистичными элементами:
 - Бесконечный процесс установки
